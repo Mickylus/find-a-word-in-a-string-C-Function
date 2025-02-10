@@ -13,7 +13,7 @@ Main function code here
 		for(i=0; i <= searched_string_lenght-word_to_search_lenght; i++){
 			// Start the checking cycle
 			for(j=0; j < word_to_search_lenght; j++){
-				//Compare the sting char by char
+				//Compare the string char by char
 				// If two char don't match break the cycle
 				if(searched_string[i+j] != word_to_search[j]){
 					break;
