@@ -1,3 +1,5 @@
+// Function made by Mickylus
+
 #include<string.h>
 #include<stdio.h>
 
